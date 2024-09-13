@@ -1,3 +1,5 @@
+[HOSTED URL](https://quiz-app-nine-lilac-37.vercel.app/)
+
 # Online Quiz Platform
 
 This project is an Online Quiz Platform built using **React.js** and **Bootstrap**. It allows users to take quizzes, view their score, and interact with a modern, responsive user interface. The platform supports multiple-choice questions and offers functionality for quiz creation, taking, and result analysis.
